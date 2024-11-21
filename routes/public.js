@@ -6,7 +6,7 @@ const prisma = new PrismaClient()
 
 const router = express.Router()
 
-// Cadastro
+// Create
 router.post('/cadastro', async (req, res) => {
     try {
         const user = req.body
