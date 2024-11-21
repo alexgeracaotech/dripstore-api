@@ -1,2 +1,2 @@
-# dripstore-api
+# API DRIP STORE
 API Drip Store
